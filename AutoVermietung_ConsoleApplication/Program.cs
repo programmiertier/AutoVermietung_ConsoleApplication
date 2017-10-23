@@ -16,7 +16,7 @@ namespace AutoVermietung_ConsoleApplication
             Fahrzeug audo3 = new Fahrzeug(false, false, "Speigrün", "TÖL-Z-45");
             Fahrzeug audo4 = new Fahrzeug(false, true, "Magenta", "M-UH-300");
             Fahrzeug audo5 = new Fahrzeug(true, true, "Grellorange", "NÖ-RD-755");
-            Fahrzeug audo6 = new Fahrzeug(true, true, "Black", "DON-ER-120");
+            Fahrzeug audo6 = new Fahrzeug(true, true, "Black", "DON-ER-5");
 
             ReadLine();
             Parkplatz daHintenUmDieEcke = new Parkplatz();
